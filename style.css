@@ -1,3 +1,23 @@
 article p {
-    color: blue;
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    font-size: larger;
+}
+
+h1 {
+    color: sandybrown;
+    font-size: xx-large;
+}
+a{
+    color: sandybrown;
+}
+body{
+    background-color: powderblue;
+}
+h2{
+    color: saddlebrown;
+}
+article{
+    
 }
