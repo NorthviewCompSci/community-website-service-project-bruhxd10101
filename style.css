@@ -1,23 +1,37 @@
 article p {
     text-align: center;
-    color: black;
+    color: white;
     font-weight: 900;
     font-size: larger;
 }
 
 h1 {
-    color: sandybrown;
+    color: yellow;
     font-size: xx-large;
 }
-a{
-    color: sandybrown;
-}
 body{
-    background-color: powderblue;
+    background-color: black;
 }
 h2{
-    color: saddlebrown;
+    color: yellow;
 }
-article{
-    
+
+.nav {
+    background-color: white;
+    overflow: hidden;
+    text-align: center;
+}
+.nav a{
+    color: black;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.nav a:hover{
+    background-color: black;
+    color: yellow;
+}
+.Calendar iframe{
+    background-color: white;
 }
